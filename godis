@@ -1,3 +1,6 @@
 if (godis==true){
 eat godis}
-else{ buy godis}
+else{ go to store}
+if (candy==avalible){
+buy candy
+}
